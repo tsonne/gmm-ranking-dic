@@ -3,7 +3,7 @@
 - Supplementary Matlab code for book chapter:
     - "Bayesian modeling in engineering seismology: Ground motion models"
         - Authors: Sahar Rahpeyma, Milad Kowsari, Tim Sonnemann, Benedikt Halldorsson, Birgir Hrafnkelsson
-    - subchapter 4.3 "Bayesian inference of empirical GMMs based on informative priors"
+    - subchapter 4.3 "Ground-motion model selection using the deviance information criterion"
 - This documentation and Matlab code are provided by Milad Kowsari (milad@hi.is)
 
 ## Requirements
